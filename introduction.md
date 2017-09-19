@@ -6,3 +6,4 @@ https://www.codeschool.com/learn/javascript
 * JavaScript
 
 * Killing history using git rebase
+* pull request
